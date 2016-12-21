@@ -8,13 +8,13 @@
 
 This project is a web interface to the [javascript obufscator](https://github.com/javascript-obfuscator/javascript-obfuscator) project.
 
-You can see it running here: https://javascriptobfuscator.herokuapp.com
+You can see it running here: https://javascript-obfuscator.herokuapp.com/
 
 ## Running it
 
 Building the react project:
 ```sh
-$ yarn # or npm install
+$ npm install
 $ npm run updatesemantic
 $ npm run webpack:dev
 ```
